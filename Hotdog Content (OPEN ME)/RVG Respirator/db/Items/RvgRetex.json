@@ -1,0 +1,51 @@
+{
+    "670e2b013dceca38220695e5": {
+        "itemTplToClone": "59fc48e086f77463b1118392",
+        "parentId": "55818af64bdc2d5b648b4570",
+        "handbookParentId": "5b5f71de86f774093f2ecf13",
+        "overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "RvgRetex.bundle",
+				"rcid": ""
+			},
+				"BackgroundColor": "yellow"
+		},
+        "locales": {
+            "en": {
+                "name": "Magpul RVG foregrip (Respirator)",
+                "shortName": "RVG RESP",
+                "description": "A custom black RVG foregrip with pictures of... some PMC?"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_foregrip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 2000,
+        "addtoTraders": true,
+        "traderId": "58330581ace78e27b8b10cee",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 2000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+    }
+}
