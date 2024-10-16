@@ -1,0 +1,15 @@
+{
+    "manifest":
+    [
+
+        {
+            "key": "FlooferSuppy.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+      
+    ]
+}
