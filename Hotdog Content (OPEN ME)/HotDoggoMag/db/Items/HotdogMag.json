@@ -26,7 +26,7 @@
         ],
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 3000,
+        "fleaPriceRoubles": 25000,
         "handbookPriceRoubles": 2000,
         "addtoTraders": true,
         "traderId": "58330581ace78e27b8b10cee",
