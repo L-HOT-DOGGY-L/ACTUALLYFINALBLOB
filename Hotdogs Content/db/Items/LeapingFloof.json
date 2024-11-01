@@ -1,0 +1,51 @@
+{
+    "6670f106522bb1a7dd61b514c": {
+        "itemTplToClone": "60926df0132d4d12c81fd9df",
+        "parentId": "550aa4cd4bdc2dd8348b456c",
+        "handbookParentId": "5b5f731a86f774093e6cb4f9",
+        "overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FlooferSuppy.bundle",
+				"rcid": ""
+			},
+				"BackgroundColor": "yellow"
+		},
+        "locales": {
+            "en": {
+                "name": "SilencerCo Saker 5.56x45 suppressor (Leaping Floofer)",
+                "shortName": "Floof",
+                "description": "A custom SilencerCo Saker ASR 556 5.56x45 sound suppressor made by the well know arms company Leaping Floofer brandishing their signature cat stickers!"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_muzzle"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 50000,
+        "handbookPriceRoubles": 40000,
+        "addtoTraders": true,
+        "traderId": "58330581ace78e27b8b10cee",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 40000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+    }
+}
