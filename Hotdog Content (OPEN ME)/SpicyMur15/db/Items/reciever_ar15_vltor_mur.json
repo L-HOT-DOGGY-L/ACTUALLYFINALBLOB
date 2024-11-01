@@ -370,8 +370,8 @@
         ],
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 18890,
-        "handbookPriceRoubles": 13440,
+        "fleaPriceRoubles": 70000,
+        "handbookPriceRoubles": 50000,
         "addtoTraders": true,
         "traderId": "58330581ace78e27b8b10cee",
         "traderItems": [
@@ -382,7 +382,7 @@
         ],
         "barterScheme": [
             {
-                "count": 20000,
+                "count": 50000,
                 "_tpl": "ROUBLES"
             }
         ],
