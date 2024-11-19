@@ -1,0 +1,63 @@
+{
+    "manifest":
+    [
+
+        {
+            "key": "doggo_mag.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "FlooferSuppy.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "RvgRetex.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+           "key": "reciever_ar15_vltor_mur.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ] 
+        },
+        {
+            "key": "lazrstn.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "REAPYRETEX.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "razorblade.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+   
+    ]
+}
