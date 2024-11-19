@@ -1,0 +1,51 @@
+{
+    "673b9b053f7fb92258a92d09": {
+        "itemTplToClone": "618ba27d9008e4636a67f61d",
+        "parentId": "55818ae44bdc2dde698b456c",
+        "handbookParentId": "5b5f748386f774093e6cb501",
+        "overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "razorblade.bundle",
+				"rcid": ""
+			},
+				"BackgroundColor": "yellow"
+		},
+        "locales": {
+            "en": {
+                "name": "Vortex Razor-BLADE 1-6x24 30mm riflescope",
+                "shortName": "Razorblade",
+                "description": "A modified Vortex Razor HD Gen.2 1-6x24 30mm riflescope. This modification was origionally one of MoxoPixel's famed black edition Razors but was given even more love by enhancing the reticle and adding some colored details."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_scope"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 200000,
+        "handbookPriceRoubles": 150000,
+        "addtoTraders": true,
+        "traderId": "58330581ace78e27b8b10cee",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 150000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+    }
+}
